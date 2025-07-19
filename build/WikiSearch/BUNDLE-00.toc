@@ -1,0 +1,3 @@
+([('WikiSearch',
+   '/Users/aliceguo/src/simple-python-gui/dist/WikiSearch',
+   'EXECUTABLE')],)
